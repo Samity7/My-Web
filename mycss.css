@@ -1,0 +1,14 @@
+#help {
+	border:solid green;
+	width: 20%;
+background-color: green;
+}
+#about {
+	/*width: 50%;
+	border: 2px solid red;*/
+}
+#p1{
+	color: black;
+	font-family: sans-serif;
+	font-size: 25px;
+}
